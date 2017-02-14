@@ -1,0 +1,4 @@
+Week 01 task:
+	1. Logs current directory listing (ls -al) and path (pwd) to lab01.txt through redirection (> and >>).
+	2. Create myExpectation.txt and sync changes from github to badak
+	3. Intro to scripting
