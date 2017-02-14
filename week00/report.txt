@@ -1,0 +1,7 @@
+Week 00 task:
+	1. Create google account
+	2. Create github account
+	3. Create a repository named os171 on github
+	4. Fill out the form given to gather accounts
+	5. Wait 24 hours and confirm the status
+	6. SSH into badak.cs.ui.ac.id
