@@ -22,3 +22,9 @@ w06-170413-13-LR-Concurrency Problem, from Lecturer
 w06-170413-14-LR-Concurrency Problem, from Lecturer
 w06-170415-12-PS-Work on week06 tasks
 w06-170415-12-PS-Work on week06 tasks
+w07-170420-13-LR-CPU Scheduling, from Lecturer
+w07-170420-13-LR-CPU Scheduling, from Lecturer
+w07-170420-14-LR-CPU Scheduling, from Lecturer
+w07-170420-14-LR-CPU Scheduling, from Lecturer
+w07-170422-12-PS-Work on week07 tasks
+w07-170422-12-PS-Work on week07 tasks
