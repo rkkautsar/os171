@@ -28,3 +28,14 @@ w07-170420-14-LR-CPU Scheduling, from Lecturer
 w07-170420-14-LR-CPU Scheduling, from Lecturer
 w07-170422-12-PS-Work on week07 tasks
 w07-170422-12-PS-Work on week07 tasks
+w08-170425-13-LR-Networking, from Lecturer
+w08-170425-13-LR-Networking, from Lecturer
+w08-170425-14-LR-Networking, from Lecturer
+w08-170425-14-LR-Networking, from Lecturer
+w08-170427-13-LR-Filesystem, from Lecturer
+w08-170427-13-LR-Filesystem, from Lecturer
+w08-170427-14-LR-Filesystem, from Lecturer
+w08-170427-14-LR-Filesystem, from Lecturer
+w08-170429-14-PS-Work on week08 tasks
+w08-170429-14-PS-Work on week08 tasks
+
