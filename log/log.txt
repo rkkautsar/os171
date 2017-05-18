@@ -38,4 +38,10 @@ w08-170427-14-LR-Filesystem, from Lecturer
 w08-170427-14-LR-Filesystem, from Lecturer
 w08-170429-14-PS-Work on week08 tasks
 w08-170429-14-PS-Work on week08 tasks
-
+w09-170511-13-LR-Exercise, from Lecturer
+w10-170518-13-PS-Work on week09-week10 tasks
+w10-170518-13-PS-Work on week09-week10 tasks
+w10-170518-14-PS-Work on week09-week10 tasks
+w10-170518-14-PS-Work on week09-week10 tasks
+w10-170518-15-PS-Work on week09-week10 tasks
+w10-170518-15-PS-Work on week09-week10 tasks
